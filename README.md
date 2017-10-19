@@ -1,6 +1,6 @@
 # word_sense_disambigation_corpora
 
-##SemCor and Masc documents annotated with NOAD word senses.
+## SemCor and Masc documents annotated with NOAD word senses.
 
 This package includes SemCor and Masc documents annotated with NOAD (New Oxford American Dictionary) word senses.
 
@@ -27,12 +27,12 @@ The break level of a word indicates how it was separated from the previous token
 -  LINE_BREAK 		Separated by line break.
 -  SENTENCE_BREAK	Separated by sentence break.
 
-##Paper
+## Paper
 
 These annotated documents are used to evaluate our word sense disambiguation systems in
 ["Semi-supervised Word Sense Disambiguation with Neural Models", Dayu Yuan, Julian Richardson, Ryan Doherty, Colin Evans and Eric Altendorf, Proceedings COLING 2016](https://research.google.com/pubs/pub45729.html)
 
-##Word sense mappings
+## Word sense mappings
 
 This package also includes maps from NOAD word senses to WordNet senses.
 1. manual_map.txt is a manually created map for a few word senses.
